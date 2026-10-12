@@ -1,12 +1,14 @@
 # source
 
-speedynote按领域（domain）划分
-成熟项目的特征
+speedynote按领域(domain)划分。
+
+成熟项目的特征。
+
 学。
 
 ## 核心业务
 
-### 子节点
+### 待定子节点
 
 ## 基础设施
 
@@ -15,7 +17,7 @@ speedynote按领域（domain）划分
 软件如何适应不同环境
 qt5/qt6 兼容？windows/linux 差异？文件系统差异？
 
-## 平台实现
+## 平台实现（android、……）
 
 ### .android
 
